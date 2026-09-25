@@ -2,10 +2,10 @@
 
 # Hi, I'm Yugeng 👋
 
-### Control Systems & Mechatronics Enthusiast | eMobility Direction
+### Control Systems & Mechatronics Enthusiast
 
 I like making things stable, controllable, and (eventually) autonomous.
-Currently deepening my grip on classical & modern control theory, electric drives, and embedded systems — still learning, always tinkering.
+Currently deepening my grip on classical & modern control theory and embedded systems — still learning, always tinkering.
 
 </div>
 
