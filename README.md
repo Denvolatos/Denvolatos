@@ -27,19 +27,6 @@ Currently deepening my grip on classical & modern control theory and embedded sy
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Denvolatos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denvolatos&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Denvolatos&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 ### 📫 Get in Touch
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c473802206@gmail.com)
