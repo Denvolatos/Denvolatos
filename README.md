@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Yugeng 👋
+# Hi, I'm Denvolatos 👋
 
 ### Control Systems & Mechatronics Enthusiast
 
